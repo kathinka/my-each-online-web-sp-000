@@ -4,5 +4,5 @@ count = 0
   yield array[count]
   count += 1
     end
-
+array
 end
