@@ -4,5 +4,5 @@ count = 0
   puts array[count]
   count += 1
     end
-  
+
 end
